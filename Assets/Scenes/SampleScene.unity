@@ -291,6 +291,8 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 64
   isGrounded: 0
+  animator: {fileID: 0}
+  playerAnimationState: 0
 --- !u!1 &352985893
 GameObject:
   m_ObjectHideFlags: 0
