@@ -12,7 +12,7 @@ TagManager:
   - Water
   - UI
   - Ground
-  - 
+  - Props
   - 
   - 
   - 
@@ -41,9 +41,15 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
-  - name: Platform
+  - name: Foreground
     uniqueID: 1349426883
+    locked: 0
+  - name: Props
+    uniqueID: 451493883
     locked: 0
   - name: Player
     uniqueID: 3649241303
+    locked: 0
+  - name: UI
+    uniqueID: 3257483715
     locked: 0
