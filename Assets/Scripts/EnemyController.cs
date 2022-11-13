@@ -34,7 +34,7 @@ public class EnemyController : MonoBehaviour
             Move();
         }
 
-        if (!isGroundAhead && isObstacleAhead)
+        if (!isGroundAhead || isObstacleAhead)
         {
             Flip();
         }
